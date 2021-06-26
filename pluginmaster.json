@@ -14,6 +14,23 @@
         "DownloadLinkTesting": "https://github.com/lushc/MyDalamudPlugins/raw/master/plugins/XIVComboExpandedest/latest.zip",
         "DownloadLinkUpdate": "https://github.com/lushc/MyDalamudPlugins/raw/master/plugins/XIVComboExpandedest/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1624566510"
+        "LastUpdated": "1624672763"
+    },
+    {
+        "Author": "attick, daemitus, alymphocyte, grammernatzi",
+        "Name": "XIV Combo Pro Esports Gamer Chair Edition",
+        "Description": "This is an enhanced version of XIVCombo with a variety of new added features.\nThis is mutually exclusive with other XIVCombo versions, so make sure they do not conflict!",
+        "InternalName": "XIVComboProEsportsGamerChairEdition",
+        "AssemblyVersion": "1.1.0.1098",
+        "RepoUrl": "https://github.com/lushc/XIVComboPluginExpandedest",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": 3,
+        "DownloadLinkInstall": "https://github.com/lushc/MyDalamudPlugins/raw/master/plugins/XIVComboProEsportsGamerChairEdition/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/lushc/MyDalamudPlugins/raw/master/plugins/XIVComboProEsportsGamerChairEdition/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/lushc/MyDalamudPlugins/raw/master/plugins/XIVComboProEsportsGamerChairEdition/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdated": "1624672763"
     }
 ]
