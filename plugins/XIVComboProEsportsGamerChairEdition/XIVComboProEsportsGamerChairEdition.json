@@ -5,7 +5,7 @@
   "AssemblyVersion": "1.1.0.1098",
   "Description": "This is an enhanced version of XIVCombo with a variety of new added features.\nThis is mutually exclusive with other XIVCombo versions, so make sure they do not conflict!",
   "ApplicableVersion": "any",
-  "RepoUrl": "https://github.com/lushc/XIVComboPluginExpandedest",
+  "RepoUrl": "https://github.com/lushc/XIVComboPluginProEsportsGamerChairEdition",
   "DalamudApiLevel": 3,
   "LoadPriority": 0
 }
